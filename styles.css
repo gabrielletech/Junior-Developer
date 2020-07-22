@@ -479,3 +479,19 @@ section {
         background-color: #fff;
     }
 }
+
+@media (min-width: 576px) {
+    .about {
+        width: 60%;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+    }
+
+    .about-text {
+        width: 300px;
+        font-size: 12px;
+    }
+}
