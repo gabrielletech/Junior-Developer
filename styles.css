@@ -115,8 +115,9 @@ section {
 }
 
 .dp {
-    height: 180px;
-    padding: 5px;
+    height: 160px;
+    width: 140px;
+    padding: 6px;
 }
 
 .download-resume {
@@ -489,7 +490,6 @@ section {
 
 @media (min-width: 576px) {
     .about {
-        width: 60%;
         border-radius: 5px;
         -webkit-border-radius: 5px;
         -moz-border-radius: 5px;
@@ -499,5 +499,9 @@ section {
 
     .about-text {
         font-size: 13.5px;
+    }
+
+    .dp {
+        height: 150;
     }
 }
