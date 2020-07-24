@@ -173,10 +173,6 @@ section {
     background-color: #fff;
 }
 
-.skills .container {
-   
-}
-
 .skills .container li {
     display: inline;
     justify-content: space-between;
@@ -470,6 +466,10 @@ section {
         -moz-border-radius: 10px;
         -ms-border-radius: 10px;
         -o-border-radius: 10px;
+    }
+
+    .dp {
+        height: 200px;
     }
 
     .about-text {
