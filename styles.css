@@ -91,7 +91,7 @@ section {
 /* About */
 .about {
     width: 80%;
-    height: 400px;
+    height: 500px;
     background-color: #fff;
     box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
     margin: -7% auto 20px auto;
@@ -107,6 +107,7 @@ section {
 
 .about-text {
     padding: 10px;
+    margin: 10px;
 }
 
 .about-header {
