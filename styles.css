@@ -112,6 +112,7 @@ section {
 
 .about-header {
     text-align: center;
+    padding: 20px;
 }
 
 .dp {
@@ -470,7 +471,7 @@ section {
     }
 
     .dp {
-        height: 200px;
+        height: 170px;
     }
 
     .about-text {
