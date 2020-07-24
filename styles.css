@@ -94,7 +94,6 @@ section {
     height: 400px;
     background-color: #fff;
     box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
-    display: flex;
     margin: -7% auto 20px auto;
     position: relative;
     justify-content: space-evenly;
@@ -106,8 +105,8 @@ section {
     -o-border-radius: 20px;
 }
 
-.about-header {
-   margin-right: 160px;
+.about-text {
+    padding: 10px;
 }
 
 .about-header {
@@ -117,7 +116,8 @@ section {
 .dp {
     height: 160px;
     width: 140px;
-    padding: 6px;
+    display: block;
+    margin: auto;
 }
 
 .download-resume {
@@ -473,7 +473,7 @@ section {
     }
 
     .about-text {
-        width: 400px;
+        
         font-size: 15px;
     }
 
