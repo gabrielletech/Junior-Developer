@@ -488,7 +488,7 @@ section {
     }
 }
 
-@media (min-width: 576px) {
+/*@media (min-width: 576px) {
     .about {
         border-radius: 5px;
         -webkit-border-radius: 5px;
@@ -504,4 +504,4 @@ section {
     .dp {
         height: 150;
     }
-}
+}*/
